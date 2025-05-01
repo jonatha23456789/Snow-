@@ -1,1 +1,110 @@
-[{"domain":".facebook.com","expirationDate":1762386092.759393,"hostOnly":false,"httpOnly":true,"name":"datr","path":"/","sameSite":"no_restriction","secure":true,"session":false,"storeId":"0","value":"q1hcZlg3z6_fwWizq--WkG9b"},{"domain":".facebook.com","expirationDate":1762073410.131728,"hostOnly":false,"httpOnly":true,"name":"sb","path":"/","sameSite":"no_restriction","secure":true,"session":false,"storeId":"0","value":"q1hcZlduO-E5jMKUbrbZ2l4i"},{"domain":".facebook.com","expirationDate":1751890941.537794,"hostOnly":false,"httpOnly":true,"name":"ps_n","path":"/","sameSite":"no_restriction","secure":true,"session":false,"storeId":"0","value":"1"},{"domain":".facebook.com","expirationDate":1751890941.538211,"hostOnly":false,"httpOnly":true,"name":"ps_l","path":"/","sameSite":"lax","secure":true,"session":false,"storeId":"0","value":"1"},{"domain":".facebook.com","expirationDate":1728117703,"hostOnly":false,"httpOnly":false,"name":"wd","path":"/","sameSite":"lax","secure":true,"session":false,"storeId":"0","value":"423x776"},{"domain":".facebook.com","expirationDate":1759049410.129705,"hostOnly":false,"httpOnly":false,"name":"c_user","path":"/","sameSite":"no_restriction","secure":true,"session":false,"storeId":"0","value":"100095328923791"},{"domain":".facebook.com","expirationDate":1735289410.130557,"hostOnly":false,"httpOnly":true,"name":"fr","path":"/","sameSite":"no_restriction","secure":true,"session":false,"storeId":"0","value":"0iW0ln4OUlsZWjUvH.AWViYlPZJX8mAYH9AyU28AqMTSI.BmX1Cf..AAA.0.0.Bm98NB.AWUMzSWc0yQ"},{"domain":".facebook.com","expirationDate":1759049410.132128,"hostOnly":false,"httpOnly":true,"name":"xs","path":"/","sameSite":"no_restriction","secure":true,"session":false,"storeId":"0","value":"47%3ASaxWuk5sN1ya_g%3A2%3A1727513409%3A-1%3A7715"},{"domain":".facebook.com","expirationDate":1733010092,"hostOnly":false,"httpOnly":false,"name":"vpd","path":"/","sameSite":"lax","secure":true,"session":false,"storeId":"0","value":"v1%3B660x360x1.7004296779632568"},{"domain":".facebook.com","expirationDate":1735324877.931883,"hostOnly":false,"httpOnly":true,"name":"m_page_voice","path":"/","sameSite":"lax","secure":true,"session":false,"storeId":"0","value":"61560686249361"},{"domain":".facebook.com","expirationDate":1728154094.476338,"hostOnly":false,"httpOnly":false,"name":"locale","path":"/","sameSite":"no_restriction","secure":true,"session":false,"storeId":"0","value":"fr_FR"},{"domain":".facebook.com","expirationDate":1735602090,"hostOnly":false,"httpOnly":false,"name":"wl_cbv","path":"/","sameSite":"no_restriction","secure":true,"session":false,"storeId":"0","value":"v2%3Bclient_version%3A2635%3Btimestamp%3A1727826079"},{"domain":".facebook.com","expirationDate":1759362092,"hostOnly":false,"httpOnly":false,"name":"fbl_st","path":"/","sameSite":"strict","secure":true,"session":false,"storeId":"0","value":"101332736%3BT%3A28797101"}]
+[
+    {
+        "key": "dbln",
+        "value": "%7B%2261558296613174%22%3A%22DUO8AN4W%22%7D",
+        "domain": "facebook.com",
+        "path": "/login/device-based/",
+        "hostOnly": false,
+        "creation": "2025-05-01T06:36:57.163Z",
+        "lastAccessed": "2025-05-01T06:36:57.164Z"
+    },
+    {
+        "key": "sb",
+        "value": "q630Z58tNYrvNFYrh3AVa21W",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-05-01T06:36:57.164Z",
+        "lastAccessed": "2025-05-01T06:36:57.164Z"
+    },
+    {
+        "key": "datr",
+        "value": "q630Z0bSby_JZUBoLenH96dv",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-05-01T06:36:57.164Z",
+        "lastAccessed": "2025-05-01T06:36:57.164Z"
+    },
+    {
+        "key": "ps_l",
+        "value": "1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-05-01T06:36:57.164Z",
+        "lastAccessed": "2025-05-01T06:36:57.164Z"
+    },
+    {
+        "key": "ps_n",
+        "value": "1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-05-01T06:36:57.164Z",
+        "lastAccessed": "2025-05-01T06:36:57.164Z"
+    },
+    {
+        "key": "dpr",
+        "value": "0.8999999761581421",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-05-01T06:36:57.164Z",
+        "lastAccessed": "2025-05-01T06:36:57.164Z"
+    },
+    {
+        "key": "ar_debug",
+        "value": "1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-05-01T06:36:57.164Z",
+        "lastAccessed": "2025-05-01T06:36:57.164Z"
+    },
+    {
+        "key": "c_user",
+        "value": "61558296613174",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-05-01T06:36:57.164Z",
+        "lastAccessed": "2025-05-01T06:36:57.164Z"
+    },
+    {
+        "key": "fr",
+        "value": "1o2Lk6tEVk7QI3jey.AWd93SsszuK9Mvxu56E-Nh9d_0ABQlEDAzWDzD8UIYho-X0noQY.BoExHA..AAA.0.0.BoExLj.AWfmOXGjysXT1jUw__icfLonHS4",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-05-01T06:36:57.164Z",
+        "lastAccessed": "2025-05-01T06:36:57.164Z"
+    },
+    {
+        "key": "xs",
+        "value": "14%3A1yg_MRbxYi0S2Q%3A2%3A1746080486%3A-1%3A7715",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-05-01T06:36:57.164Z",
+        "lastAccessed": "2025-05-01T06:36:57.164Z"
+    },
+    {
+        "key": "presence",
+        "value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1746080493998%2C%22v%22%3A1%7D",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-05-01T06:36:57.164Z",
+        "lastAccessed": "2025-05-01T06:36:57.164Z"
+    },
+    {
+        "key": "wd",
+        "value": "2124x1060",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-05-01T06:36:57.164Z",
+        "lastAccessed": "2025-05-01T06:36:57.164Z"
+    }
+]
